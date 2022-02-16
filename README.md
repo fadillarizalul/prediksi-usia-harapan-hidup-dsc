@@ -24,7 +24,7 @@ Berdasarkan masalah yang telah dirumuskan, tujuan penelitian ini antara lain:
 - Mengetahui tingkat kemiskinan masyarakat yang terdampak COVID-19, dan  
 - Mengetahui prediksi Umur Harapan Hidup (UHH) di Indonesia pada tahun 2021.  
 
-Selengkapnya mengenai penelitian ini, dapat dilihat melalui file laporan di atas.
+Selengkapnya mengenai penelitian ini, dapat dilihat melalui file laporan [di atas](https://github.com/fadillarizalul/prediksi-usia-harapan-hidup-dsc/blob/main/Tim%20Dadakan-DSC-Penyisihan-Makalah.pdf)
 
 ## Referensi  
 [1] Ilham R. A., M. (2021). UMKM Jadi Sektor Prioritas Pulihkan Ekonomi. Jakarta: Media Indonesia. (https://mediaindonesia.com/ekonomi/431344/umkm-jadi-sektor-prioritas-pulihkan-ekonomi, diakses pada 9 Februari 2022)  
