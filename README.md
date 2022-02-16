@@ -36,3 +36,8 @@ Selengkapnya mengenai penelitian ini, dapat dilihat melalui file laporan di atas
 [6] Rumus Statistik. (2019). Cara Menghitung Indeks Pembangunan Manusia.
 (https://www.rumusstatistik.com/2019/11/cara-menghitung-indeks-pembangunan-manusia.html, diakses pada 9 Februari 2022)  
 [7] Dosen Pendidikan. (2022). Angka Harapan Hidup. (https://www.dosenpendidikan.co.id/angka-harapan-hidup/, diakses pada 10 Februari 2022) 
+
+## Team Member  
+Verdy Evantyo, Fisika ITB 2018  
+Fadilla Rizalul Yahya, Fisika ITB 2018  
+Ristania Putri Wahyudi, Matematika ITB 2019
